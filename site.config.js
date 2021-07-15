@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'Biubiu-s-HOME-3bbc41364287490ba5d0f36b28f9e906',
+  rootNotionPageId: 'REBECCA-912c681493cb46ebabfcbb29f3977eba',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '个人主页',
-  domain: 'https://www.notion.so/Biubiu-s-HOME-3bbc41364287490ba5d0f36b28f9e906',
+  domain: 'https://www.notion.so/REBECCA-912c681493cb46ebabfcbb29f3977eba',
   author: 'Deft',
 
   // open graph metadata (optional)
